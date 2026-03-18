@@ -87,7 +87,11 @@ I believe programming is about solving real-world problems and continuously lear
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SlpPan4\&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=SlpPan4&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlpPan4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlpPan4&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SlpPan4)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SlpPan4)
 
