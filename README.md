@@ -43,16 +43,12 @@ languages_spoken:
 currently:
   - Building Mapify — a fullstack app with C# backend & Vue.js frontend
   - Diving deeper into Docker, CI/CD, and scalable architecture
-  - Continuing my study
-  - Looking for an intership
-  - Planning to get into System programming, try out new Linux distributions.
+  - Exploring system programming & new Linux distributions.
 looking_for: 10-week full-time internship (Backend / DevOps)
 not_looking_for: Frontend-only roles, Helpdesk positions
 philosophy:
   - "Programming is about solving real-world problems"
-  - Good architecture and base is sometimes much more important than a "just functioning" app
-  - I know everything that is necessary, it's just that "necessary" definition that constantly changes.
-  - Good programmer doesn't have to know everything, he has websearch to find it out.
+  - "Good architecture and base beats a 'just functioning' app"
 ```
 
 > 💡 *"I enjoy working on backend logic, system architecture, and practical software rather than heavy UI design."*
