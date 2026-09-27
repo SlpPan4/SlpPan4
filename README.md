@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Building+tools+that+simplify+life+%F0%9F%9B%A0%EF%B8%8F;Backend+logic+%2B+Clean+architecture+%3D+%E2%9D%A4%EF%B8%8F;Always+learning%2C+always+shipping+%F0%9F%9A%80;From+Ukraine+%F0%9F%87%BA%F0%9F%87%B6+%E2%86%92+Netherlands+%F0%9F%87%B3%F0%9F%87%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Building+tools+that+simplify+life+%F0%9F%9B%A0%EF%B8%8F;Backend+logic+%2B+Clean+architecture+%3D+%E2%9D%A4%EF%B8%8F;Always+learning%2C+always+shipping+%F0%9F%9A%80;From+Ukraine+%F0%9F%87%BA%F0%9F%87%A6+%E2%86%92+Netherlands+%F0%9F%87%B3%F0%9F%87%B1" alt="Typing SVG" />
 
 <br><br>
 
@@ -14,9 +14,9 @@
 <a href="mailto:0osipovdima0@gmail.com">
   <img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=e94560" />
 </a>
-<a href="https://linkedin.com/in/dmytro-osipov">
+<!-- <a href="https://linkedin.com/in/dmytro-osipov">
   <img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=e94560" />
-</a>
+</a> -->
 
 <br><br>
 
@@ -43,10 +43,16 @@ languages_spoken:
 currently:
   - Building Mapify — a fullstack app with C# backend & Vue.js frontend
   - Diving deeper into Docker, CI/CD, and scalable architecture
-  - Exploring Rust
+  - Continuing my study
+  - Looking for an intership
+  - Planning to get into System programming, try out new Linux distributions.
 looking_for: 10-week full-time internship (Backend / DevOps)
 not_looking_for: Frontend-only roles, Helpdesk positions
-philosophy: "Programming is about solving real-world problems"
+philosophy:
+  - "Programming is about solving real-world problems"
+  - Good architecture and base is sometimes much more important than a "just functioning" app
+  - I know everything that is necessary, it's just that "necessary" definition that constantly changes.
+  - Good programmer doesn't have to know everything, he has websearch to find it out.
 ```
 
 > 💡 *"I enjoy working on backend logic, system architecture, and practical software rather than heavy UI design."*
@@ -60,12 +66,13 @@ philosophy: "Programming is about solving real-world problems"
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-### Backend & Frameworks
+### Concepts & Frameworks
 <p>
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
@@ -100,7 +107,7 @@ philosophy: "Programming is about solving real-world problems"
   <tr>
     <td width="50%" valign="top">
       <h3>🗺️ Mapify</h3>
-      <p><em>Fullstack application — C# backend + Vue.js frontend</em></p>
+      <p><em>Fullstack application — C# backend + Vue.js frontend + Telegram/Discord bots</em></p>
       <a href="https://github.com/SlpPan4/Mapify">
         <img src="https://img.shields.io/badge/View_on_GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=e94560" />
       </a>
@@ -162,71 +169,26 @@ philosophy: "Programming is about solving real-world problems"
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 R6 Strategy Bot <sub><em>(WIP)</em></sub></h3>
-      <p><em>Discord & Telegram bot for Rainbow Six Siege</em></p>
-      <br>
+      <h3>🔧 LMS CLI — Open Source Contributor</h3>
+      <p><em>Core feature for a university course management tool</em></p>
+      <a href="https://gitlab.com/saxionnl/42/lms42/">
+        <img src="https://img.shields.io/badge/View_on_GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+      </a>
+      <br><br>
       <ul>
-        <li>Provides <strong>R6 Siege strategies</strong> and team setups</li>
-        <li>Cross-platform: <strong>Discord + Telegram</strong></li>
-        <li>Work in progress — actively developing</li>
+        <li>Architected and implemented a <strong>work versioning & rollback system</strong> that empowers students to safeguard their progress</li>
+        <li>Enabled <strong>instant duplication</strong> of assignments and projects, eliminating the risk of accidental data loss</li>
+        <li>Designed with <strong>fault tolerance</strong> in mind — students can experiment freely and revert to any stable state</li>
+        <li>Contributed to a <strong>production CLI tool</strong> used by the entire student cohort</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
-        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+        <img src="https://img.shields.io/badge/Open_Source-1a1a2e?style=flat-square&logo=opensourceinitiative&logoColor=e94560" />
+        <img src="https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
       </p>
     </td>
   </tr>
 </table>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=SlpPan4&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=e94560&icon_color=e94560&text_color=cfcfcf" height="180" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlpPan4&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=cfcfcf" height="180" />
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <img src="https://streak-stats.demolab.com?user=SlpPan4&theme=radical&hide_border=true&background=1a1a2e&stroke=e94560&ring=e94560&fire=e94560&currStreakLabel=e94560" height="180" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SlpPan4&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=e94560&line=e94560&point=cfcfcf" width="95%" />
-</div>
-
----
-
-## 🎯 Currently Building
-
-```diff
-+ Mapify          → Finishing the fullstack app, preparing for PostgreSQL migration
-+ R6 Strategy Bot → Adding more game strategies and cross-platform features
-+ Learning        → Rust, scalable system architecture, advanced backend patterns
-```
-
----
-
-## 🧠 Interests & Philosophy
-
-<div align="center">
-
-| 💻 Backend Architecture | 🤖 Automation | 🛠️ Developer Tools | 🧹 Clean Code |
-|:---:|:---:|:---:|:---:|
-| Building robust systems | Eliminating repetitive tasks | Tools that make dev life easier | Maintainable & readable |
-
-</div>
-
-> *"I believe programming is about solving real-world problems and continuously learning new technologies."*
 
 ---
 
